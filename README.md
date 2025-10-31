@@ -35,7 +35,7 @@
 ---
 
 ### 🧩 Featured Projects
-- 🌾 [Strawberry Farms Edmonton](https://josephomerhi.com) – Responsive marketing site  
+- 🌾 [Strawberry Farms Edmonton](https://strawberryfarmedmonton.netlify.app/) – Responsive marketing site  
 - 🌍 Sólheimar Travel Tours – PHP/MySQL travel form & dice roller  
 - 🏥 Klinika Medical Theme – Custom WordPress Classic Theme  
 - 🪄 Maker’s Market Dashboard – Tailwind CSS prototype  
